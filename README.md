@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack internship.
 - 🌱 I’m currently learning DSA.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ? my gmail - githubshivam@gmail.com
+- 📫 How to reach me ? my gmail - githubshivam334@gmail.com
 - 😄 Pronouns: He/him.
 - 
 
